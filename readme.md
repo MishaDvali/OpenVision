@@ -8,7 +8,7 @@ OpenVision is a Chrome extension designed to make web navigation accessible for 
 - **Hotkey Navigation**: Users can navigate through elements using customizable keyboard shortcuts.
 - **Voice Command Control**: Allows users to interact with web pages hands-free by issuing simple voice commands.
 - **Structural Content Reading**: Reads content in the logical order.
-- **Multilingual Support**: Provides voice output in multiple languages. Check our others repos to
+- **Multilingual Support**: Provides voice output in multiple languages. Check our others repos to ([for example: Ukranian](https://github.com/MishaDvali/OpenVisionUkraine))
 
 ## Basic Navigation
 
